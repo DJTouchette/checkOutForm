@@ -1,0 +1,25 @@
+/*Slowly fades div*/
+.hidden {
+
+  opacity: 0;
+  transition: opacity 2.5s;
+  display: none;
+
+}
+
+/*Slowly makes div appear*/
+.visible {
+
+  opacity: 1;
+  transition: opacity 2.5s;
+  display: block;
+
+
+}
+
+/*Pulls card down*/
+.middle {
+
+  margin-top: 15%;
+
+}
